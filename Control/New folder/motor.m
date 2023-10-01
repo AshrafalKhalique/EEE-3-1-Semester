@@ -1,0 +1,11 @@
+clc;
+L=input('Enter value of L=');
+Kt=input('Enter value of Kt=');
+Kb=input('Enter value of Kb=');
+J=input('Enter value of J=');
+B=input('Enter value of B=');
+R=input('Enter value of R=');
+plot(out.DC);
+ylabel('Angular Velocity');
+xlabel('Time');
+title('DC Motor');
